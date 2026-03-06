@@ -1,4 +1,19 @@
-# Keep root repository as system-level documentation only
-Twitter/
-Ad Hominem Detection/
 .venv/
+
+# Temporary backups for nested repositories
+.nested_git_backups/
+
+# Python
+**/__pycache__/
+*.pyc
+
+# Environment files
+**/.env
+
+# Node/Next outputs
+**/node_modules/
+**/.next/
+
+# OS/editor
+**/.DS_Store
+**/Thumbs.db
