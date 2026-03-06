@@ -1,0 +1,4 @@
+# Keep root repository as system-level documentation only
+Twitter/
+Ad Hominem Detection/
+.venv/
